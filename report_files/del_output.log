@@ -70,3 +70,63 @@ Started | Input File: ../uploads/deltest.txt | Date: 12-11-2021 11:55:24
 List name	List ID	Item UUID	Item deleted	List Published
 TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/333961c7-4201-4e67-b5d9-99baa1f8fe01.html?lang=en&login=1	
 Stopped | End of File: ../uploads/deltest.txt | Date: 12-11-2021 11:55:24
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 11:42:35
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 11:42:38
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 11:43:58
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 11:44:01
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 11:46:26
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 11:46:29
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 11:50:22
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 11:50:26
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 11:53:15
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 11:53:17
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 11:59:43
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 11:59:45
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 12:08:34
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 12:08:36
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 12:11:54
+
+List name	List ID	Item UUID	Item deleted	List Published
+TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	https://rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lINVALID	TEST LIST II (MK)	BD904608-5CB2-8A59-9428-6682EFD7B20E	TEST LIST II (MK)	rl.talis.com/3/westminster/items/f86f2974-ee06-4f76-83b8-8d0fdd5c764d.html?lang=en&login=1	
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 12:11:56
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 12:14:18
+
+List name	List ID	Item UUID	Item deleted	List Published
+
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 12:14:21
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 12:23:08
+
+List name	List ID	Item UUID	Item deleted	List Published
+
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 12:23:10
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 12:24:42
+
+List name	List ID	Item UUID	Item deleted	List Published
+
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 12:24:44
+Started | Input File: ../uploads/test.txt | Date: 19-11-2021 12:27:13
+
+List name	List ID	Item UUID	Item deleted	List Published
+
+Stopped | End of File: ../uploads/test.txt | Date: 19-11-2021 12:27:15

@@ -115,16 +115,38 @@ while (!feof($file_handle) )  {
 	$parts = explode(" ", $line_of_text);
 	$barc = trim($parts[0]);
 	echo "\$barc = $barc </br>";
+	
 	$item_extra = explode("/items/", $barc);
-	$item_extra1 = trim($item_extra[1]);
-	echo "\$item_extra1 = $item_extra1</br>";
+	var_dump($item_extra);
+	//use count ($item_extra)
+	if (array_key_exists("/items/", $item_extra)) {
+		echo "The 'first' element is in the array";
+		
+	}
+	else {echo "The 'first' element is NOT in the array";}
+	//$item_extra1 = trim($item_extra[1]);
+	//echo "\$item_extra1 = $item_extra1</br>";
+
+		if (empty($item_extra[1])) {
+			$item1=$barc;
+
+		} else {
+			$item1=$item_extra1;
+		}
 	$item1 = explode(".", $item_extra1);
 
 	$item = trim($item1[0]);
-	echo "\$item = $item</br>";
+	echo "\$item = $item - ";
 	//http://tenancy.rl.talis.com/items/abcd1234-abcd-efgh-adbc5432.html?some=params
+
+	/*if (preg_match('/^\{?[A-Z0-9]{8}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{12}\}?$/', $item)) {
+		echo 'ok';
+	  } else {
+		echo 'not ok';
+	  }*/
+
 	$item_lookup = 'https://rl.talis.com/3/' . $shortCode . '/draft_items/' . $item . '?include=list';
-	echo $item_lookup;
+	//echo $item_lookup;
 	//************GRAB**LIST**DETAILS*************
 
 		$ch4 = curl_init();
